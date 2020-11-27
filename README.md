@@ -13,5 +13,5 @@ Data gets added and diplayed automatically in list after pressing add button.
 ![Adding data in database](https://github.com/AtharvaMahamuni/Android-SQLite-app-for-customers/blob/main/adding%20data.png)
 **DELETING DATA**
 <br />
-Customer get delted when clicked on customer entry.
+Customer get deleted when clicked on customer entry.
 ![Deleting data from database](https://github.com/AtharvaMahamuni/Android-SQLite-app-for-customers/blob/main/deleting%20data.png)
